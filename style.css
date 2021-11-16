@@ -1,0 +1,30 @@
+* {
+  font-family: sans-serif;
+}
+
+.gray-border {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  width: auto;
+  margin: auto;
+  border-radius: 10px;
+  line-height: 2.5;
+}
+
+.header {
+  text-align: center;
+}
+
+.recipe-border {
+  background-color: gray;
+  color: white;
+  text-align: left;
+  border-radius: 10px;
+}
+
+.image {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
